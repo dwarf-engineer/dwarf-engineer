@@ -40,4 +40,4 @@
 
 
 ## <div align="center"> Follow me:</div>
-### <div align="center"> [![Telegram](https://img.shields.io/badge/Telegram-000??style=for-the-badge&logo=Telegram&logoColor=green)](https://t.me/artem_xopc)[![VKontakte](https://img.shields.io/badge/ВКонтакте-000??style=for-the-badge&logo=VK&logoColor=09b6ee)](https://vk.com/artem_xopc)
+### <div align="center"> [![Telegram](https://img.shields.io/badge/Telegram-000??style=for-the-badge&logo=Telegram&logoColor=green)](https://t.me/RomanovArtem)[![VKontakte](https://img.shields.io/badge/ВКонтакте-000??style=for-the-badge&logo=VK&logoColor=09b6ee)](https://vk.com/romanov__artem)
